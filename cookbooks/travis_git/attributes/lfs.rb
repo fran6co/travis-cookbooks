@@ -1,1 +1,1 @@
-default['travis_git']['lfs']['version'] = '0.5.0'
+default['travis_git']['lfs']['version'] = '1.2.0'
